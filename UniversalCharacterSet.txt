@@ -1,0 +1,7 @@
+The Universal Coded Character Set (UCS) is a standard set of characters defined by the International Standard ISO/IEC 10646, Information technology — Universal Coded Character Set (UCS) (plus amendments to that standard), which is the basis of many character encodings. The latest version contains over 136,000 abstract characters, each identified by an unambiguous name and an integer number called its code point. This ISO/IEC 10646 standard is maintained in conjunction with The Unicode Standard ("Unicode"), and both are code-for-code identical.
+
+Characters (letters, numbers, symbols, ideograms, logograms, etc.) from the many languages, scripts, and traditions of the world are represented in the UCS with unique code points. The inclusiveness of the UCS is continually improving as characters from previously unrepresented writing systems are added.
+
+The UCS has over 1.1 million possible code points available for use/allocation, but only the first 65,536 (the Basic Multilingual Plane, or BMP) had entered into common use before 2000. This situation began changing when the People's Republic of China (PRC) ruled in 2006 that all software sold in its jurisdiction would have to support GB 18030. This required software intended for sale in the PRC to move beyond the BMP.
+
+The system deliberately leaves many code points not assigned to characters, even in the BMP. It does this to allow for future expansion or to minimize conflicts with other encoding forms.
